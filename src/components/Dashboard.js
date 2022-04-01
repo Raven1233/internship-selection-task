@@ -100,7 +100,7 @@ function Dashboard(){
                             </div>
                             <div className="pl-4 ">
                                 <p>
-                                    Transfer this account to another user or organization where you &nbsp;&nbsp;<br/> have the ability ot create repositories
+                                    Transfer this account to another user or organization where you &nbsp;&nbsp;<br/> have the ability to create repositories
                                 </p>
                             </div>
                         </div>
